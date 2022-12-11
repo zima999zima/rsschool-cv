@@ -11,7 +11,9 @@ My goal is to join the IT-community and work from home
 Skills: python (aiogram), html/css, linux
 
 function multiply(a, b){
+
   return a * b;
+  
 }
 
 
